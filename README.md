@@ -1,5 +1,8 @@
 # 💫 About Me:
-<br>Passionate Software Developer with experience in backend and full-stack development. Skilled in building scalable applications and APIs using Golang, Elixir, Node.js, Express, React, and SQL databases. Interested in backend architecture, microservices, distributed systems, and problem-solving.<br><br>Currently working on real-world backend projects including API Gateway systems and RBAC authentication. Always eager to learn new technologies, improve system design skills, and contribute to impactful projects.<br><br>💡 Love solving DSA problems, building efficient systems, and exploring modern backend technologies.<br>
+Passionate Software Developer with experience in backend and full-stack development. Skilled in building scalable applications and APIs using Node.js, Express.js, Elixir, React, and SQL databases. Interested in backend architecture, microservices, distributed systems, and problem-solving.
+Experienced in working with tools and technologies like Docker, Git, MySQL, PostgreSQL, and REST APIs. Always eager to learn new technologies, improve development skills, and contribute to impactful projects.
+💡 Love solving DSA problems, building efficient systems, and exploring modern backend technologies.
+
 
 * 🔭 **I’m currently working on:** Node.js, Express.js & React
 * 🌱 **I’m currently learning:** Node.js, Next.js & Microservices
